@@ -1,4 +1,4 @@
-# tuic-sserver-docker
+# tuic-server-docker
 Run TUIC server in docker
 
 TUIC: https://github.com/EAimTY/tuic

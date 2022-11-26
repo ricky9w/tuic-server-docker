@@ -14,5 +14,5 @@ services:
     image: ricky9w/tuic-server:{{ tag }}
     network_mode: {{ network mode }}
     volumes:
-      - /path/to/you/config.json:/etc/config.json
+      - /path/to/you/config.json:/etc/tuic/config.json
 ```
